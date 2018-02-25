@@ -1,7 +1,8 @@
-body {
+.fcontainer {
   display: flex;
   flex-flow: wrap;
   justify-content: space-around;
+  align-items: space-around;
   background-color: lightblue;
 }
 
@@ -12,4 +13,17 @@ p {
 
 button {
   order: 1
+}
+
+.shape-separator {
+  position: relative;
+  height: 48px;
+}
+.shape-separator::after {
+  content: '';
+  background-image: url(https://onmyfrontporch.files.wordpress.com/2013/11/texture-8.jpg);
+  position: absolute;
+  width: 100%;
+  height: 24px;
+  bottom: 0;
 }

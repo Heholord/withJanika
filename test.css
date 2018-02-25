@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+  background-color: lightblue;
+}
+
+p {
+  text-align: center;
+  /*width: 100px;*/
+}
+
+button {
+  order: 1
+}

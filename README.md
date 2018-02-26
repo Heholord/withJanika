@@ -73,6 +73,7 @@ For example I found this: https://www.reddit.com/r/web_design/comments/7z7f8n/an
 * [Typekid Fonts explorer](https://typekit.com/) by Adobe :wrench:
 * [Unsplashed photo explorer](https://unsplash.com/) :wrench:
 * [Rico's cheatsheets collection](https://devhints.io/) :wrench: :clipboard:
+* [Placeholder](https://placeholder.com/) :wrench:
 #### 4.4.1) Git
 * [Git Tutorial by github](https://try.github.io) :video_game:
 * [Git Tutorial](https://git-scm.com/docs/gittutorial)

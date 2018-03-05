@@ -17,6 +17,7 @@ and [w3schools](https://www.w3schools.com/)
 
 ### 1.2) CSS
 * [CSS-Tricks](https://css-tricks.com/)
+* [CSS in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/)
 #### 1.2.1) Flexbox
 * [Froggy](http://flexboxfroggy.com/) :video_game:
 * [Cheatshet](https://devhints.io/css-flexbox) :clipboard:
